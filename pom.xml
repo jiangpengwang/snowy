@@ -14,8 +14,8 @@
     <artifactId>snowy</artifactId>
     <version>1.6.0</version>
 
-    <name>snowy</name>
-    <description>snowy的前后端分离vue版本</description>
+    <name>tchSupervision</name>
+    <description>基于snowy的前后端分离vue版本</description>
 
     <packaging>pom</packaging>
 
